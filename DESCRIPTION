@@ -4,10 +4,16 @@ Title: Implementation of tools for classifying DNA Sequences
 Version: 0.1.0
 Author: Apu Chandra Das
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: Package for classification based analysis of DNA sequences. Primirily implements Naive Bayesian classifyer
+Description: Package for classification based analysis of DNA sequences. This package 
+    primirily implements Naive Bayesian classifier from the Ribosomal Database Project. 
+    We will likely include other methods of classification and possibly some methods of
+    visualizing the data.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/apustat/phylotyper
 BugReports: https://github.com/apustat/phylotyper/issues
 RoxygenNote: 7.3.2.9000
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
