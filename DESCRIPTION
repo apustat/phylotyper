@@ -1,13 +1,13 @@
 Package: phylotyper
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Implementation of tools for classifying DNA Sequences
 Version: 0.1.0
-Author: Who wrote it
+Author: Apu Chandra Das
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Package for classification based analysis of DNA sequences. Primirily implements Naive Bayesian classifyer
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/apustat/phylotyper
 BugReports: https://github.com/apustat/phylotyper/issues
+RoxygenNote: 7.3.2.9000
